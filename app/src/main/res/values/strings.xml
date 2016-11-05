@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthTrainer_Beta</string>
+    <string name="app_title">HealthTrainer_v0.0.1</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">회원이 아니세요? 지금 가입하세요.</string>
+    <string name="btn_link_to_login">이미 회원이세요? 로그인하세요!</string>
+    <string name="welcome">환영합니다</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_profile">PROFILE</string>
+    <string name="btn_status">STATUS</string>
+    <string name="name">Fullname</string>
+
+</resources>
