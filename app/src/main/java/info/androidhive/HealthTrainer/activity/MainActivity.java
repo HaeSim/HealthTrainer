@@ -18,6 +18,7 @@ public class MainActivity extends Activity {
 	private TextView txtName;
 	private TextView txtEmail;
 	private Button btnLogout;
+	private Button btnProfile;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -29,6 +30,7 @@ public class MainActivity extends Activity {
 
 		txtName = (TextView) findViewById(R.id.name);
 		txtEmail = (TextView) findViewById(R.id.email);
+		btnProfile = (Button) findViewById(R.id.btnProfile);
 		btnLogout = (Button) findViewById(R.id.btnLogout);
 
 		// SqLite database handler
@@ -44,13 +46,20 @@ public class MainActivity extends Activity {
 		// Fetching user details from SQLite
 		HashMap<String, String> user = db.getUserDetails();
 
-		String name = user.get("name");
+		final String name = user.get("name");
 		String email = user.get("email");
 
 		// Displaying the user details on the screen
 		txtName.setText(name);
 		txtEmail.setText(email);
+		//Profile button click event
+		btnProfile.setOnClickListener(new View.OnClickListener(){
 
+			@Override
+			public void onClick(View v) {
+				openProfile(name);
+			}
+		});
 		// Logout button click event
 		btnLogout.setOnClickListener(new View.OnClickListener() {
 
@@ -60,7 +69,11 @@ public class MainActivity extends Activity {
 			}
 		});
 	}
-
+	private  void openProfile(String name){
+		Intent intent = new Intent(MainActivity.this,ProfileActivity.class);
+		startActivity(intent);
+		intent.putExtra("name",name);
+	}
 	/**
 	 * Logging out the user. Will set isLoggedIn flag to false in shared
 	 * preferences Clears the user data from sqlite users table

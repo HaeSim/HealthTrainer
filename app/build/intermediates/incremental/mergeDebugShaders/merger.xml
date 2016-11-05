@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\project\HealthTrainer\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\project\HealthTrainer\app\src\debug\shaders"/></dataSet></merger>
