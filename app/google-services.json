@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "395655050569",
+    "firebase_url": "https://healthtrainer-f0b1d.firebaseio.com",
+    "project_id": "healthtrainer-f0b1d",
+    "storage_bucket": "healthtrainer-f0b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395655050569:android:0ae2cdb9e1e4091d",
+        "android_client_info": {
+          "package_name": "com.vitallab.HealthTrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395655050569-3v5v16m5c86phom8m6471j0jlhon73m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5J71gwNSGkzGEj_XvCT6LWHfMYwyPZyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

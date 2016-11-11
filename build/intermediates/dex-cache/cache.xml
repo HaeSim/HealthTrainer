@@ -12,21 +12,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_bbb93978eb50f5f39f3857d9864bdbccc182e630.jar" />
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.1_8b2c00cbf021a6077a957a2de55157c0c72b5dc1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_0fc1f9aa5068c251525707576986119a9793bac8.jar" />
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_c8bc6a5ed7a7ade34c8da2f44b6140ec44b99dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_8b499e95bcd84cff3c91f8c4bf8289099baed459.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,12 +48,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\An\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_9b98e328bc23b80d2e548afc79216edc5f0acb1c.jar" />
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_9b3d98fecad0d5f5af280ecdc54c4cf905e87490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_c583fed13c13a885204c1da82a502f9c17a894d9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +75,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_b0ad7453c08c8c0cd7904c76903e2c2f1e6426d9.jar" />
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_ec7f9ab69b12e09dc27d7cd5046f18abb0d44f8b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,6 +90,114 @@
         revision="23.0.3"
         sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
         <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_a142e96c84005197a6a2e2f1799b0e3b5ec40dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_5ed1440b295deff52186bebf1c351c63f0883a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_5a604e1de0b922d81359a188008be37bd9b5884f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_e0d27b05fd7a7ba112070b24141e009d86484990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\An\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.2.1_6e73ff42ec69db15a0eec2e9c3f3f5a8350ffb40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_f7c1f4f7fa37c96a96e7307839c3faec57b4925d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.2.1_1473b7e56ff66da2b82b593e3fe910500d2b69b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\An\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_cb3f6177cf792f8cc255a06321eb57f77c07f47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_b0ad7453c08c8c0cd7904c76903e2c2f1e6426d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_0b103ad167cb2631e59ad5e42ec3558c72d2e86a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.1_701f81b28b6f79490ec3293b98e4ec85f646fce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_fdcc42ed4c94ad0b982f5d3eb055cf3f07f12aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\project\HealthTrainer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\project\HealthTrainer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_2171171dfbf438d36269a380dc9a139e4f188f7c.jar" />
     </item>
 
 </items>

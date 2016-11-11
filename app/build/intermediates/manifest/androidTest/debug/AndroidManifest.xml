@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="info.androidhive.HealthTrainer.test">
+    package="com.vitallab.HealthTrainer.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="info.androidhive.HealthTrainer"
+                     android:targetPackage="com.vitallab.HealthTrainer"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for info.androidhive.HealthTrainer"/>
+                     android:label="Tests for com.vitallab.HealthTrainer"/>
 </manifest>

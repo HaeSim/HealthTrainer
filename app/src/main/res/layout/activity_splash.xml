@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#F0000000"
-    tools:context="info.androidhive.HealthTrainer.activity.SplashActivity">
+    tools:context="com.vitallab.HealthTrainer.activity.SplashActivity">
 
     <ImageView
         android:id="@+id/imageView1"
